@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/yachnasharma0274/Tailspin%20demo/_apis/build/status%2FTailspin%20demo-ASP.NET%20Core-CI?branchName=main)](https://dev.azure.com/yachnasharma0274/Tailspin%20demo/_build/latest?definitionId=2&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
